@@ -1,17 +1,17 @@
 [   {
         "name": "Ala",
-        "grade" : 91
+        "price" : 350
     },
     {
        "name": "Shir",
-        "grade" : 89
+        "price" : 300
     },
     {
         "name": "Naama",
-        "grade" : 60
+        "price" : 550
     },
     {
         "name": "Ital",
-        "grade" : 73
+        "price" : 290
     }
 ]
